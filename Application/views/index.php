@@ -1,2 +1,2 @@
 <?php
-echo "oldu";
+echo "test";
